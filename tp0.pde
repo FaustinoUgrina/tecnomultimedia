@@ -1,6 +1,6 @@
 //Faustino Ugrina Natale
 //comision 3
-//tp0
+//tp1
 
 PImage retrato;
 
